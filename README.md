@@ -12,7 +12,7 @@ centernet3d_horizon：地平线模型、测试（量化）图像、测试结果�
 
 # 导出onnx
 
-*** 本示例代码只适合按照提供参考导出的onnx，其它导出onn方式自行写后处理 ***  
+**本示例代码只适合按照提供参考导出的onnx，其它导出onn方式自行写后处理***  
 
 [导出onnx参考](https://blog.csdn.net/zhangqian_1/article/details/139180009)
 
